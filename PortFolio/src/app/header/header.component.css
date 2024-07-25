@@ -1,0 +1,14 @@
+.jumbotron {
+    padding: 2rem 1rem;
+    background-image: url('../../assets/bg_4.jpg');
+    /* background-color: #e9ecef; */
+    /* background: url('../../assets/bg.avif'); */
+    background-position: center;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+}
+
+#a {
+    -webkit-text-stroke: 1px white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
